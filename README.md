@@ -11,5 +11,5 @@ I performed EDA and visualized the outputs for better understanding of the datas
   * Decision Tree Classifier
   * Gradient Boost Trees
   * CatBoost Algorithm
-
-I determined the accuracy of these algorithms and choose the best algorithm for prediction.
+  
+I determined the accuracy of these algorithms using cross-validation and chose the best algorithm for prediction
